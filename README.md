@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Manuel Velázquez @jmvelazquezr
-- 👀 I’m interested in web development : HTML, CSS, JS
-- 🌱 I’m currently learning Vue
+- 👋 Hi, I’m Jose Manuel Velázquez @jmvelazquezr
+- 👀 I’m a web developer
 
 <!---
 jmvelazquezr/jmvelazquezr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
